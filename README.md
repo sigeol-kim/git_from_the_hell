@@ -113,6 +113,6 @@ import numpy
 
 <http://www.naver.com>
 
-[링크 텍스트](링크 주소, "부가 설명")
+[링크 텍스트] (링크 주소, "부가 설명")
 
-[네이버](http://www.naver.com, 네이버홈)
+[네이버] (http://www.naver.com, 네이버홈)
